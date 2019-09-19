@@ -1,0 +1,12 @@
+footer {
+    float: clear;
+    width: 100%;
+    text-align: center;
+    height: 50px;
+    margin-top: 330px;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+}
+
